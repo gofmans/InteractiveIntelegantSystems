@@ -20,4 +20,9 @@ can potentially be used to support teachers in tailoring problem sets
 and exams to individual students and students in informing them
 about areas they may need to strengthen.
 
-This Project includes a full implementation of the EduRank algorithm proposed by Avi Segal, Ziv Katzir, Ya’akov (Kobi) Gal, Guy Shani and Bracha Shapira.
+This Project includes a full implementation of the EduRank algorithm proposed by Avi Segal, Ziv Katzir, Ya’akov (Kobi) Gal, Guy Shani and Bracha Shapira and an personal improvment attempt.
+
+The proposed algorithm is trained and tested on the Algebra 2005-2006 dataset from the KDD Cup 2010 - Educational Data Mining Challenge:
+
+Stamper, J., Niculescu-Mizil, A., Ritter, S., Gordon, G.J., & Koedinger, K.R. (2010). Algebra 2005-2006. Development data set from KDD Cup 2010 Educational Data Mining Challenge. Find it on: http://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp
+
